@@ -22,4 +22,5 @@ nbactions.xml
 
 
 #Bower
-/shopping_cart/src/main/webapp/bower_components/
+
+/src/main/webapp/bower_components/
